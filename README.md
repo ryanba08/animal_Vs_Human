@@ -1,5 +1,5 @@
 # Human_Vs_Animals
-Which animals humans think they can beat in a fight.
+What animals do humans think they can beat in a fight.
 
 I chose this data set because it is funny and informative of people.
 Realistically I dont believe 7% of males can beat a bear in a fight.
